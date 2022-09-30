@@ -2,11 +2,13 @@
 
 # EDIT THE FOLLOWING LINES!
 
+
 # Give your project a good name!
 project_name="My_Project_Name"
 
-# Tell where your remote is!:
-sources_url="https://github.com/github_user/repo_id"
+# Tell where your remote is, be aware of escaping `/`!:
+sources_url="https:\/\/github.com\/github_user\/repo_id"
+
 
 # HERE YOU ARE DONE!
 #--------------------------------------------------------
