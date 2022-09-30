@@ -4,7 +4,7 @@
 
 
 1. Create your own repository (without any commits, i.e. especially without readme) on e.g. github.com
-2. git clone %your own repository%
+2. git clone `https://server.domain/url/to/your/repo`
 3. git remote add template https://github.com/Necktschnagge/cmake_cpp_template
 4. git fetch template
 5. git switch -c main template/main
