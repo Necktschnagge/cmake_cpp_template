@@ -16,7 +16,7 @@ It is inteded to work on multiple platforms:
 3. Execute the following git commands locally:
    * `git remote add template https://github.com/Necktschnagge/cmake_cpp_template`
    * `git fetch template`
-   * `git switch -c main template/main`
+   * `git switch -c main template/main` (Make sure that you do not have a branch main yet locally!)
    * `git push --set-upstream origin main`
 4. Edit the script `init_project_and_script_files.sh` at the root of your repository. There you need to set:
    * a project name
